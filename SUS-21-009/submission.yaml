@@ -1,0 +1,619 @@
+---
+additional_resources:
+- description: Created with hepdata_lib 0.12.0
+  location: https://zenodo.org/record/4946277
+- description: Webpage with all figures and tables
+  location: http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-21-009/index.html
+comment: A search for new physics in final states consisting of at least one photon,
+  multiple jets, and large missing transverse momentum is presented, using proton-proton
+  collision events at a center-of-mass energy of 13 TeV. The data correspond to an
+  integrated luminosity of 137$fb^{-1}$, recorded by the CMS experiment at the CERN
+  LHC from 2016 to 2018. The events with signal-like characteristics are divided into
+  mutually exclusive bins characterized by the missing transverse momentum, the number
+  of jets, the number of b-tagged jets, and jets consistent with the presence of hadronically
+  decaying W, Z, or H bosons. The observed data are found to be consistent with the
+  prediction from standard model processes. The results are interpreted in the context
+  of pair production of supersymmetric particles via strong and electroweak interactions,
+  assuming simplified models. Depending on the details of the signal models, gluinos
+  and squarks of masses up to 2.35 and 1.43 TeV, respectively, and electroweakinos
+  of masses up to 1.30 TeV are excluded at 95% confidence level.
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+additional_resources:
+- description: Image file
+  location: AllSBins_v6_CD_EW_50bin_unblind_prefit.png
+- description: Thumbnail image file
+  location: thumb_AllSBins_v6_CD_EW_50bin_unblind_prefit.png
+data_file: figure_8_predicted_background_events.yaml
+description: SM background predictions, data observations and signal yields in the
+  signal region.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - NEvents/bin
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 8, located on page 15.
+name: Figure 8 Predicted background events
+---
+additional_resources:
+- description: Image file
+  location: T5bbbbZg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T5bbbbZg_exclusion.png
+data_file: figure_9_(top_left)_observed.yaml
+description: Gluino - neutralino mass points lying on the observed exclusion contour
+  of T5bbbbZg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (top left), located on page 16.
+name: Figure 9 (top left) observed
+---
+additional_resources:
+- description: Image file
+  location: T5bbbbZg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T5bbbbZg_exclusion.png
+data_file: figure_9_(top_left)_expected.yaml
+description: Gluino - neutralino mass points lying on the expected exclusion contour
+  of T5bbbbZg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (top left), located on page 16.
+name: Figure 9 (top left) expected
+---
+additional_resources:
+- description: Image file
+  location: T5qqqqHg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T5qqqqHg_exclusion.png
+data_file: figure_9_(top_right)_observed.yaml
+description: Gluino - neutralino mass points lying on the observed exclusion contour
+  of T5qqqqHg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (top right), located on page 16.
+name: Figure 9 (top right) observed
+---
+additional_resources:
+- description: Image file
+  location: T5qqqqHg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T5qqqqHg_exclusion.png
+data_file: figure_9_(top_right)_expected.yaml
+description: Gluino - neutralino mass points lying on the expected exclusion contour
+  of T5qqqqHg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (top right), located on page 16.
+name: Figure 9 (top right) expected
+---
+additional_resources:
+- description: Image file
+  location: T5ttttZg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T5ttttZg_exclusion.png
+data_file: figure_9_(bottom_left)_observed.yaml
+description: Gluino - neutralino mass points lying on the observed exclusion contour
+  of T5ttttZg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (bottom left), located on page 16.
+name: Figure 9 (bottom left) observed
+---
+additional_resources:
+- description: Image file
+  location: T5ttttZg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T5ttttZg_exclusion.png
+data_file: figure_9_(bottom_left)_expected.yaml
+description: Gluino - neutralino mass points lying on the expected exclusion contour
+  of T5ttttZg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (bottom left), located on page 16.
+name: Figure 9 (bottom left) expected
+---
+additional_resources:
+- description: Image file
+  location: T6ttZg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T6ttZg_exclusion.png
+data_file: figure_9_(bottom_right)_observed.yaml
+description: Stop - neutralino mass points lying on the observed exclusion contour
+  of T6ttZg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (bottom right), located on page 16.
+name: Figure 9 (bottom right) observed
+---
+additional_resources:
+- description: Image file
+  location: T6ttZg_exclusion.png
+- description: Thumbnail image file
+  location: thumb_T6ttZg_exclusion.png
+data_file: figure_9_(bottom_right)_expected.yaml
+description: Stop - neutralino mass points lying on the expected exclusion contour
+  of T6ttZg model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 9 (bottom right), located on page 16.
+name: Figure 9 (bottom right) expected
+---
+additional_resources:
+- description: Image file
+  location: TChiNGnn.png
+- description: Thumbnail image file
+  location: thumb_TChiNGnn.png
+data_file: figure_10_(bottom_right)_observed.yaml
+description: observed exclusion limit on the neutralino mass points in the TChiNGnn
+  model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+  - Electroweakino
+  - EWK
+  - 137 $fb^{-1}$
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 10 (bottom right), located on page 17.
+name: Figure 10 (bottom right) observed
+---
+additional_resources:
+- description: Image file
+  location: TChiNGnn.png
+- description: Thumbnail image file
+  location: thumb_TChiNGnn.png
+data_file: figure_10_(bottom_right)_expected.yaml
+description: expected exclusion limit on the neutralino mass points in the TChiNGnn
+  model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+  - Electroweakino
+  - EWK
+  - 137 $fb^{-1}$
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 10 (bottom right), located on page 17.
+name: Figure 10 (bottom right) expected
+---
+additional_resources:
+- description: Image file
+  location: TChiNG.png
+- description: Thumbnail image file
+  location: thumb_TChiNG.png
+data_file: figure_10_(bottom_left)_observed.yaml
+description: observed exclusion limit on the neutralino mass points in the TChiNG
+  model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+  - Electroweakino
+  - EWK
+  - 137 $fb^{-1}$
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 10 (bottom left), located on page 17.
+name: Figure 10 (bottom left) observed
+---
+additional_resources:
+- description: Image file
+  location: TChiNG.png
+- description: Thumbnail image file
+  location: thumb_TChiNG.png
+data_file: figure_10_(bottom_left)_expected.yaml
+description: expected exclusion limit on the neutralino mass points in the TChiNG
+  model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+  - Electroweakino
+  - EWK
+  - 137 $fb^{-1}$
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 10 (bottom left), located on page 17.
+name: Figure 10 (bottom left) expected
+---
+additional_resources:
+- description: Image file
+  location: TChiWG.png
+- description: Thumbnail image file
+  location: thumb_TChiWG.png
+data_file: figure_10_(top)_observed.yaml
+description: observed exclusion limit on the neutralino mass points in the TChiWG
+  model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+  - Electroweakino
+  - EWK
+  - 137 $fb^{-1}$
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 10 (top), located on page 17.
+name: Figure 10 (top) observed
+---
+additional_resources:
+- description: Image file
+  location: TChiWG.png
+- description: Thumbnail image file
+  location: thumb_TChiWG.png
+data_file: figure_10_(top)_expected.yaml
+description: expected exclusion limit on the neutralino mass points in the TChiWG
+  model.
+keywords:
+- name: cmenergies
+  values:
+  - '13000'
+- name: observables
+  values:
+  - signal
+- name: phrases
+  values:
+  - SUSY
+  - GMSB
+  - Supersymmetry
+  - Electroweakino
+  - EWK
+  - 137 $fb^{-1}$
+- name: reactions
+  values:
+  - P P
+location: Data from Figure 10 (top), located on page 17.
+name: Figure 10 (top) expected
+---
+name: Figure 9 (top left) Observed xsec.
+location: Data from Figure 9 (top left) , located on page 17.
+description: The 95% CL observed upper limits on the production cross sections for $m_{\tilde{g}}$ in T5bbbbZg.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T5bbbbZg_xsec_obs.yaml
+
+---
+name: Figure 9 (top right) Observed xsec.
+location: Data from Figure 9 (top right) , located on page 17.
+description: The 95% CL observed upper limits on the production cross sections for $m_{\tilde{g}}$ in T5qqqqHg.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T5qqqqHg_xsec_obs.yaml
+
+---
+name: Figure 9 (bottom left) Observed xsec.
+location: Data from Figure 9 (bottom left) , located on page 17.
+description: The 95% CL observed upper limits on the production cross sections for $m_{\tilde{g}}$ in T5ttttZg.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T5ttttZg_xsec_obs.yaml
+
+---
+name: Figure 9 (bottom right) Observed xsec.
+location: Data from Figure 9 (bottom right) , located on page 17.
+description: The 95% CL observed upper limits on the production cross sections for $m_{\tilde{t}}$ in T6ttZg.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T6ttZg_xsec_obs.yaml
+
+
+---
+name: Acc X Eff for T5bbbbZg
+location: Additional information
+description:  Acceptance times efficiency values with statistical uncertainties for T5bbbbZg in the SR region.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T5bbbbZgv2_Accxeff.yaml
+
+
+---
+name: Acc X Eff for T5qqqqHg
+location: Additional information
+description:  Acceptance times efficiency values with statistical uncertainties for T5qqqqHg in the SR region.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T5qqqqHgv2_Accxeff.yaml
+
+
+---
+name: Acc X Eff for T5ttttZg
+location: Additional information
+description:  Acceptance times efficiency values with statistical uncertainties for T5ttttZg in the SR region.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T5ttttZgv2_Accxeff.yaml
+
+
+---
+name: Acc X Eff for T6ttZg
+location: Additional information
+description:  Acceptance times efficiency values with statistical uncertainties for T6ttZg in the SR region.
+keywords:
+- name: reactions
+  values:
+  - p p
+- name: observables
+  values:
+  - cross-section
+- name: cmenergies
+  values:
+  - '13000'
+- name: phrases
+  values:
+  - SUSY
+  - Supersymmetry
+  - Strong production
+  - Proton-Proton
+  - Scattering
+data_file: T6ttZgv2_Accxeff.yaml

@@ -1,0 +1,63 @@
+dependent_variables:
+- header:
+    name: $\sigma_{expected}$
+    units: pb
+  qualifiers:
+  - name: Process
+    value: $pp \rightarrow \tilde{\chi}_{1}^{\pm}\tilde{\chi}_{1}^{\pm} / \tilde{\chi}_{1}^{0}\tilde{\chi}_{2}^{0}
+      / \tilde{\chi}_{1}^{\pm}\tilde{\chi}_{1/2}^{0}, \tilde{\chi}_{1}^{0} \rightarrow
+      \gamma/H/Z \tilde{G} , \tilde{\chi}_{2}^{0} \rightarrow \gamma/H/Z \tilde{G}$
+  values:
+  - value: '0.0337295'
+  - value: '0.0232836'
+  - value: '0.0169165'
+  - value: '0.0118309'
+  - value: '0.00802744'
+  - value: '0.00529806'
+  - value: '0.00331241'
+  - value: '0.00219984'
+  - value: '0.00159351'
+  - value: '0.00128336'
+  - value: '0.00108875'
+  - value: '0.000921699'
+  - value: '0.000835804'
+  - value: '0.000759213'
+  - value: '0.000699244'
+  - value: '0.000656779'
+  - value: '0.000621005'
+  - value: '0.000590786'
+  - value: '0.000562942'
+  - value: '0.000531993'
+  - value: '0.000521666'
+  - value: '0.000505817'
+  - value: '0.000490124'
+  - value: '0.000490124'
+independent_variables:
+- header:
+    name: $m_{NLSP}$
+    units: GeV
+  values:
+  - value: '350.0'
+  - value: '400.0'
+  - value: '450.0'
+  - value: '500.0'
+  - value: '550.0'
+  - value: '600.0'
+  - value: '650.0'
+  - value: '700.0'
+  - value: '750.0'
+  - value: '800.0'
+  - value: '850.0'
+  - value: '900.0'
+  - value: '950.0'
+  - value: '1000.0'
+  - value: '1050.0'
+  - value: '1100.0'
+  - value: '1150.0'
+  - value: '1200.0'
+  - value: '1250.0'
+  - value: '1300.0'
+  - value: '1350.0'
+  - value: '1400.0'
+  - value: '1450.0'
+  - value: '1450.0'
